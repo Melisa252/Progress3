@@ -1,0 +1,85 @@
+body{
+	background-color: 5991B6;
+	background-image: url("cv_background.jpg");	
+}
+.header{
+
+	position: absolute;
+	bottom: 400px;
+	left: 600px;
+	font-family: times new roman;
+	font-size: 20px;
+}
+hr.first{
+	position: relative;
+	top:40px;
+}
+img{
+	position: relative;
+	top:80px;
+	left:200px;
+	border: solid;
+	width:250px;
+	height:350;
+}
+.heading{
+	position: relative;
+	top:1px;
+	left:550px;
+	border: solid;
+	width:500px;
+	background-color: #546F81;
+	}
+.html{
+	position: relative;
+	bottom:18px;
+	left:1000px;
+	border: solid;
+	width:400px;
+	background-color: #546F81;
+}
+.info{
+	position: relative;
+	top:40px;
+	left:200px;
+	border: solid;
+	width:500px;
+	background-color: #546F81;
+	}
+hr.second{
+	position: relative;
+	top:200px;
+}
+.edu{
+	width: 400px;
+	position: relative;
+	border: solid;
+	left:1200px;
+	bottom:28px;
+	background-color: #546F81;
+}
+.internship{
+	width:500px;
+	position: relative;
+	border: solid;
+	left:200px;
+	bottom:98px;
+	background-color: #546F81 ;
+	height: 150px
+}
+.skills{
+	width:500px;
+	position: relative;
+	border: solid;
+	left:0px;,
+	bottom:48px;
+	background-color: #546F81;
+}
+.hobbies{
+	width:400px;
+	position: relative;
+	border: solid;
+	left:1000px;
+	bottom:178px;
+	background-color: #546F81;
+}
